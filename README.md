@@ -37,11 +37,11 @@ cf restage credhub-sample-demo
 
 ## 3. Add the credhub dependency to pom.xml
 ```
-	<dependency>
-        <groupId>org.springframework.credhub</groupId>
-        <artifactId>spring-credhub-starter</artifactId>
-        <version>2.0.0.RELEASE</version>
-    </dependency>
+<dependency>
+    <groupId>org.springframework.credhub</groupId>
+    <artifactId>spring-credhub-starter</artifactId>
+    <version>2.0.0.RELEASE</version>
+</dependency>
 ```
 
 ## 4. Application environment variables will contain credhub reference
